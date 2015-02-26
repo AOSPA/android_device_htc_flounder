@@ -4,5 +4,11 @@
         "repository":   "device/htc/flounder-kernel",
         "target_path":  "device/htc/flounder-kernel",
         "revision":     "refs/tags/android-5.0.2_r1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "AOSPA/android_external_skia",
+        "target_path":  "external/skia",
+        "revision":     "9903d0089573acf43c8c76afe0e00db50055ac7f"
     }
 ]
